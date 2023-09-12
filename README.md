@@ -65,6 +65,6 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please reach out to [Your Name](mailto:your.email@example.com).
+If you have any questions or suggestions regarding this project, please reach out to subhahan shaik (mailto:your.email@example.com).
 
 We hope this Sales Data Analysis Project provides valuable insights and contributes to data-driven decision-making in your organization. Thank you for your interest in our work!
